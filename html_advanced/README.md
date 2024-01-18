@@ -21,7 +21,7 @@ Once completed, it will be an interactive and engaging platform for learning.
 - [Contact](#contact)
 
 ## Project Overview
-Code~Breeders is an online learning platform focused on delivering quality educational content in an accessible and fun way.
+CODE BREEDERS is an online learning platform focused on delivering quality educational content in an accessible and fun way.
 The website is being designed to be user-friendly and visually appealing, offering a range of courses,
 pricing options, and insightful tutorials from professionals.
 
