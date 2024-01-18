@@ -2,17 +2,12 @@
 ![HTML Advance](images/under-construction.webp)
 
 # Code~Breeders Website Readme
-Welcome to Code~Breeders! This document provides an overview of the HTML structure for the Code~Breeders website, currently under construction. The HTML code represents the basic structure and layout of the site, with a focus on key sections and elements.
-Once completed, it will be an interactive and engaging platform for learning.
+An online Software Engineering Learning Platform
 
 ## Introduction
-<<<<<<<
-
-=======
 Welcome to Code~Breeders! This document provides an overview of the HTML structure for the Code~Breeders website, 
 currently under construction. The HTML code represents the basic structure and layout of the site, with a focus on key sections and elements.
 Once completed, it will be an interactive and engaging platform for learning.
->>>>>>> 87c21f6946435fdd46f49861f3fc71feb4cc3686
 
 ## Table of Contents
 - [Project Overview](#project-overview)
