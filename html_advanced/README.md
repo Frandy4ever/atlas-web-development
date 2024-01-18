@@ -75,7 +75,7 @@ Contributions are welcome. Please read the CONTRIBUTING.md file for more details
 This project is licensed under the [MIT](https://github.com/Frandy4ever/atlas-web-development/blob/workBranch/LICENSE). See the LICENSE.md file for more details.
 
 ## Contact
-For any inquiries or suggestions, please contact `Frandy Slueue` @ [Frandy4ever@gmail.com].
+For any inquiries or suggestions, please contact [`Frandy Slueue`](https://github.com/Frandy4ever/atlas-web-development/blob/workBranch/AUTHORS).
 
 ---
 
