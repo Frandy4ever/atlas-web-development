@@ -458,11 +458,9 @@ body {
 
 .copyright {
    font-size: .6rem;
-   font-weight: 300;
    position: absolute;
-   bottom: -200;
-   /* margin-bottom: 30px; */
-   right: 50%;
+   bottom: -70px;
+   left: 50%;
 }
 
 .social__wrapper {
